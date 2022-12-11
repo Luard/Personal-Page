@@ -20,7 +20,7 @@ export default function Home() {
           alt="Luard"
         />
         <h1 className={styles.title}>
-          Welcome to <a href="https://luard.dev">luard.dev!</a>
+          Welcome to <a href="https://luard.dev">luard.dev</a>!
         </h1>
 
         <div className={styles.grid}>
