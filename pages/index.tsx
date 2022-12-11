@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>Luard</title>
         <meta name="description" content="Luard personal page" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/images/Luard.png" />
       </Head>
 
       <main className={styles.main}>
